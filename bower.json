@@ -1,0 +1,24 @@
+{
+  "name": "Lesson01",
+  "authors": [
+    "Remzes <victor_s1998@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "^1.0.0",
+    "TweenJS": "^1.0.0",
+    "PreloadJS": "^1.0.0",
+    "SoundJS": "^1.0.0"
+  }
+}
